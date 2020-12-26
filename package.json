@@ -1,0 +1,19 @@
+{
+  "name": "node_vue_revisit",
+  "version": "0.0.0",
+  "description": "node vue again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ezsecure/node_vue_revisit.git"
+  },
+  "author": "henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezsecure/node_vue_revisit/issues"
+  },
+  "homepage": "https://github.com/ezsecure/node_vue_revisit#readme"
+}
