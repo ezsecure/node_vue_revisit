@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ezsecure/node_vue_revisit/issues"
   },
-  "homepage": "https://github.com/ezsecure/node_vue_revisit#readme"
+  "homepage": "https://github.com/ezsecure/node_vue_revisit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
